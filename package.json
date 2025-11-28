@@ -1,0 +1,19 @@
+{
+  "name": "firstwebapp_yancey006",
+  "version": "1.0.0",
+  "description": "Backend service for Spotify‑Card project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
